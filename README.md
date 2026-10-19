@@ -1,8 +1,7 @@
 # Valor Mortis (2026) - Full Arabic Localization Mod
 
 <div align="center">
-
-[![Game](https://img.shields.io/badge/Game-Valor_Mortis_(2026)-blue.svg?style=for-the-badge&logo=unrealengine)](https://store.steampowered.com/)
+ 
 [![Engine](https://img.shields.io/badge/Engine-Unreal_Engine_5.7-black.svg?style=for-the-badge&logo=unrealengine)](https://www.unrealengine.com/)
 [![Status](https://img.shields.io/badge/Status-Complete_100%25-success.svg?style=for-the-badge)]()
 [![Translator](https://img.shields.io/badge/Author-Mohamed_Moslem_Allouch-red.svg?style=for-the-badge)]()
